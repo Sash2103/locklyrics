@@ -12,11 +12,12 @@ You need a MacBook with Apple silicon on macOS 26 or later (it draws on the buil
 
 ## Install
 
-1. Unzip it and move **LockLyrics** to your Applications folder.
-2. Open it. macOS won't open it the first time, since it isn't from the App Store: go to **System Settings → Privacy & Security**, scroll down, and click **Open Anyway**.
-3. When asked, allow LockLyrics to control Spotify.
-4. In LockLyrics' Settings (its icon in the menu bar), click **Sign in to Spotify…** for lyrics, or switch on LRCLIB.
-5. Play a song and lock your Mac (⌃⌘Q).
+1. Unzip it and drag **LockLyrics** into your **Applications** folder. (Opened from Downloads, it can't update itself.)
+2. Double-click it. macOS says **"LockLyrics" Not Opened: Apple could not verify "LockLyrics" is free of malware**. It says that about every app that isn't from the App Store or an Apple-registered developer. Click **Done**, not Move to Trash.
+3. Open **System Settings → Privacy & Security**, scroll down to **Security**, and next to "LockLyrics was blocked", click **Open Anyway**. Confirm with Touch ID or your password, then click **Open**. This is needed once; updates install without it.
+4. When asked, allow LockLyrics to control Spotify.
+5. In LockLyrics' Settings (its icon in the menu bar), click **Sign in to Spotify…** for lyrics, or switch on LRCLIB.
+6. Play a song and lock your Mac (⌃⌘Q).
 
 ## Updates
 
